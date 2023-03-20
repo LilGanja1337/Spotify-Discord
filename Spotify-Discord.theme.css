@@ -18,7 +18,7 @@
 	--accent-rgb: 29,185,84;
 	--accent-text-color: #fff; /*	-	*/
 
-	--chat-color: #575757;
+	--chat-color: #121212;
 	--chat-box-color: #272727;
 	--sidebar-color: #000;
 	--sidebar-panel: #090909; /*	-	*/
@@ -36,6 +36,6 @@
 	--popout-radius-small: 3px; /*	-	*/
 
 	--input-color: #4a4a4a;
-	--input-text-color: #333;
-	--input-placeholder-color: #444;
+	--input-text-color: #787878;
+	--input-placeholder-color: #808080;
 }
